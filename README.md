@@ -8,7 +8,7 @@ I share my experiences through blog posts, and most importantly, [open-source pr
 
 - [xcodeproj](https://github.com/tuist/xcodeproj): It's a Swift package to read, update, and write Xcode projects.
 - [tuist](https://github.com/tuist/tuist): It's a command-line tool that provides a standard interface to work with Xcode projects.
-- [microfeatures-guidelines](https://github.com/tuist/microfeatures-guidelines): A proposal on how to structure frameworks in a modular iOS application.
+- [microfeatures-guidelines](https://docs.tuist.io/building-at-scale/microfeatures): A proposal on how to structure frameworks in a modular iOS application.
 
 I'm a very casual and approachable person, like you and most people in this world. Don't hesitate to DM me on [Twitter](https://twitter.com/pedropbuendia).
 
